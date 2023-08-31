@@ -26,3 +26,4 @@ if (empty($password)) {
         header("Location: index.php?error");
     }
 }
+?>
