@@ -10,5 +10,3 @@ if ($con) {
 } else {
     die("Connection failed: " . mysqli_connect_error());
 }
-
-// 3Y07hL^#1Pjc
