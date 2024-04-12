@@ -13,6 +13,6 @@ OR
 http://hansonbite.free.nf/user-profile/index.php
 <SAMPLE ACCOUNT> 
 username: johnDoe94
-password: johnDOe94
+password: johnDoe94
 
 OR you can create another account (DUMMY ACCOUNT ONLY)
