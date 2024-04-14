@@ -1,4 +1,4 @@
-# user-profile
+# USER PROFILE
 
 This is my first upload on Github.
 
@@ -11,8 +11,11 @@ Note: Run this on "localhost" using xampp.
 OR
 
 http://hansonbite.free.nf/user-profile/index.php
-<SAMPLE ACCOUNT> 
-username: johnDoe94
-password: johnDoe94
+
+<b>Sample Account</b>
+
+Username: johnDoe94
+
+Password: johnDoe94
 
 OR you can create another account (DUMMY ACCOUNT ONLY)
